@@ -1,0 +1,104 @@
+[
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1633337474564-1d9478ca4e2e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U3BhZ2hldHRpJTIwQ2FyYm9uYXJhfGVufDB8fDB8fHww",
+      "title": "Spaghetti Carbonara",
+      "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+      "ingredients": [
+        "200g spaghetti",
+        "100g pancetta",
+        "2 large eggs",
+        "50g Pecorino cheese",
+        "50g Parmesan cheese",
+        "Freshly ground black pepper",
+        "Salt"
+      ],
+      "cookingTime": "20 minutes",
+      "calories": 450
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1672933036331-e27ffae157bd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Q2hpY2tlbiUyMEN1cnJ5fGVufDB8fDB8fHww",
+      "title": "Chicken Curry",
+      "description": "A flavorful and spicy chicken curry made with a blend of aromatic spices.",
+      "ingredients": [
+        "500g chicken breast",
+        "2 onions",
+        "3 cloves garlic",
+        "1 inch ginger",
+        "2 tomatoes",
+        "2 tbsp curry powder",
+        "1 tsp turmeric",
+        "1 tsp cumin",
+        "400ml coconut milk",
+        "Salt",
+        "Pepper",
+        "Fresh coriander"
+      ],
+      "cookingTime": "40 minutes",
+      "calories": 600
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1543826173-1beeb97525d8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8VmVnZXRhYmxlJTIwU3RpciUyMEZyeXxlbnwwfHwwfHx8MA%3D%3D",
+      "title": "Vegetable Stir-Fry",
+      "description": "A quick and healthy stir-fry with a mix of fresh vegetables and a savory sauce.",
+      "ingredients": [
+        "1 bell pepper",
+        "1 carrot",
+        "1 zucchini",
+        "100g broccoli",
+        "100g snap peas",
+        "2 tbsp soy sauce",
+        "1 tbsp sesame oil",
+        "2 cloves garlic",
+        "1 tsp ginger",
+        "Salt",
+        "Pepper"
+      ],
+      "cookingTime": "15 minutes",
+      "calories": 200
+    },
+    {
+      "id": 4,
+      "image": "https://plus.unsplash.com/premium_photo-1661730314652-911662c0d86e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8QmVlZiUyMFRhY29zfGVufDB8fDB8fHww",
+      "title": "Beef Tacos",
+      "description": "Delicious beef tacos with a blend of spices, served with fresh toppings.",
+      "ingredients": [
+        "500g ground beef",
+        "1 onion",
+        "2 cloves garlic",
+        "1 tsp chili powder",
+        "1 tsp cumin",
+        "1 tsp paprika",
+        "8 taco shells",
+        "Shredded lettuce",
+        "Diced tomatoes",
+        "Shredded cheese",
+        "Sour cream",
+        "Salt",
+        "Pepper"
+      ],
+      "cookingTime": "25 minutes",
+      "calories": 350
+    },
+    {
+      "id": 5,
+      "image": "https://plus.unsplash.com/premium_photo-1670253258590-9bfea76faacd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q2hvY29sYXRlJTIwQ2hpcCUyMENvb2tpZXN8ZW58MHx8MHx8fDA%3D",
+      "title": "Chocolate Chip Cookies",
+      "description": "Classic chocolate chip cookies with a soft and chewy texture.",
+      "ingredients": [
+        "200g all-purpose flour",
+        "100g unsalted butter",
+        "150g sugar",
+        "1 large egg",
+        "1 tsp vanilla extract",
+        "1/2 tsp baking soda",
+        "1/2 tsp salt",
+        "150g chocolate chips"
+      ],
+      "cookingTime": "30 minutes",
+      "calories": 250
+    }
+  ]
+  
